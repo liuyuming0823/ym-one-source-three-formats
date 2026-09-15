@@ -1,6 +1,6 @@
 ---
-name: one-source-three-formats
-slug: one-source-three-formats
+name: ym-one-source-three-formats
+slug: ym-one-source-three-formats
 display_name: 一稿三改
 display_name_en: One Source Three Formats
 displayName: 一稿三改
@@ -21,7 +21,7 @@ trigger:
 agent_created: true
 ---
 
-# 一稿三改 (one-source-three-formats)
+# 一稿三改 (ym-one-source-three-formats)
 
 把一份原创素材同时改成「长文 + 60 秒口播 + 9 图卡片」三种形态，并保证三稿的事实完全一致。普通改写最容易出的问题是同一数字在三处说法漂移（长文「30%」、口播「三成多」、卡片「约三成」），本技能用「事实表 + 一致性核对」把漂移锁死。
 
